@@ -1,0 +1,40 @@
+{
+  "pelanggan_list": {
+    "0": {
+      "id_pelanggan": "P001",
+      "nama_pelanggan": "Ahmad Fauzi",
+      "alamat": "Jl. Merdeka No. 10, Palembang",
+      "nomor_telepon": "081234567890",
+      "email": "ahmadfauzi@email.com",
+      "jenis_pelanggan": "Grosir",
+      "tanggal_bergabung": "2023-01-15",
+      "status_akun": "Aktif",
+      "metode_pembayaran": "Transfer Bank",
+      "preferensi_pengiriman": "Pengiriman Langsung"
+    },
+    "1": {
+      "id_pelanggan": "P002",
+      "nama_pelanggan": "Siti Nurhaliza",
+      "alamat": "Jl. Pahlawan No. 5, Palembang",
+      "nomor_telepon": "082345678901",
+      "email": "sitinhurhaliza@email.com",
+      "jenis_pelanggan": "Eceran",
+      "tanggal_bergabung": "2022-10-20",
+      "status_akun": "Aktif",
+      "metode_pembayaran": "Tunai",
+      "preferensi_pengiriman": "Ambil di Toko"
+    },
+    "2": {
+      "id_pelanggan": "P003",
+      "nama_pelanggan": "Budi Santoso",
+      "alamat": "Jl. Sejahtera No. 7, Palembang",
+      "nomor_telepon": "083456789012",
+      "email": "budisantoso@email.com",
+      "jenis_pelanggan": "Grosir",
+      "tanggal_bergabung": "2021-05-10",
+      "status_akun": "Non-Aktif",
+      "metode_pembayaran": "Transfer Bank",
+      "preferensi_pengiriman": "Pengiriman Langsung"
+    }
+  }
+}
